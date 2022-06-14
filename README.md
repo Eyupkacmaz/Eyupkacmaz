@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend and backend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyupkacmaz&label=Profile%20views&color=0e75b6&style=flat" alt="eyupkacmaz" /> </p>
-
+<div>
+  <img src="https://wakatime.com/badge/user/9551b20d-92af-4bfc-aa6f-e27938965fc9.svg"/>
+  </div>
 - 📝 I regularly write articles on [https://medium.com/@eyubsina](https://medium.com/@eyubsina)
 
 <h3 align="left">Connect with me:</h3>
