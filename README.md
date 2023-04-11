@@ -1,11 +1,14 @@
-<h1 align="center">Hi! <br /> I'm Eyüp Sina Kaçmaz</h1>
-<h3 align="center">A passionate frontend and backend developer from Turkey</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&height=100&section=header"/>
+</p>
+<h1 align="center">  I'm Eyüp Sina Kaçmaz</h1>
+<h3 align="center">A passionate frontenddeveloper from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eyupkacmaz&label=Profile%20views&color=0e75b6&style=flat" alt="eyupkacmaz" /> </p>
 
 <div align="center">   <img src="https://wakatime.com/badge/user/9551b20d-92af-4bfc-aa6f-e27938965fc9.svg"/>   </div>
 
- <p align="center"> - 📝 I regularly write articles on [https://medium.com/@eyubsina](https://medium.com/@eyubsina) </p>
+ <p align="center"> - 📫 How to reach me **eyubsina@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -22,8 +25,12 @@
 
 
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupkacmaz&show_icons=true&locale=en&layout=compact" alt="eyupkacmaz" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupkacmaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="eyupkacmaz" /></p>
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eyupkacmaz&show_icons=true&locale=en" alt="eyupkacmaz" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eyupkacmaz&show_icons=true&locale=en&theme=tokyonight" alt="eyupkacmaz" /></p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=eyupkacmaz&" alt="eyupkacmaz" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=eyupkacmaz&&theme=tokyonight" alt="eyupkacmaz" /></p>
+
+<p align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
