@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&height=100&section=header"/>
 </p>
 <h1 align="center">  I'm Eyüp Sina Kaçmaz</h1>
-<h3 align="center">A passionate fronten ddeveloper from Turkey</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eyupkacmaz&label=Profile%20views&color=0e75b6&style=flat" alt="eyupkacmaz" /> </p>
 
